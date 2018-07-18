@@ -1,3 +1,8 @@
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
+[![built with Matplotlib](https://img.shields.io/badge/built%20with-matplotlib-blue.svg)](https://www.python.org/)
+[![built with Seaborn](https://img.shields.io/badge/built%20with-seaborn-brightgreen.svg)](https://www.python.org/)
+
+
 # WeatherPy
 
 - - -
